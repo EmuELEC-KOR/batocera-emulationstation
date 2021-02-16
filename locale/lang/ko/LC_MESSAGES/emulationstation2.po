@@ -248,14 +248,14 @@ msgid "arcade"
 msgstr "아케이드"
 
 msgid "vertical arcade"
-msgstr "세로화 아케이드"
+msgstr "세로 화면 아케이드"
 
 msgid "collections"
 msgstr "컬렉션"
 
 #, c-format
 msgid "Added '%s' to '%s'"
-msgstr "'%s'를 '%s'에 추가함면"
+msgstr "'%s'를 '%s'에 추가함"
 
 #, c-format
 msgid "Removed '%s' from '%s'"
