@@ -1962,8 +1962,8 @@ msgid ""
 "A valid account is required. Please register an account on https://"
 "retroachievements.org"
 msgstr ""
-"유효한 계정이 필요합니다. https://retroachievements.org에서 
-계정을 등록하세요."
+"유효한 계정이 필요합니다. https://retroachievements.org에서"
+"계정을 등록하세요."
 
 msgid "Searching"
 msgstr "검색 중"
